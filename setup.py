@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 from setuptools import setup, find_packages
 import os
 
@@ -21,7 +20,7 @@ setup(
         "Programming Language :: Python",
         "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
     ],
-    url='https://github.com/petertodd/python-bitcoinlib',
+    url='https://github.com/reisthiago/python-omneek-api.git',
     keywords='omneek',
     packages=find_packages(),
     zip_safe=False,
