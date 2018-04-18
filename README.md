@@ -1,1 +1,1 @@
-**This library is a simple python wrapper for Omneek API**
+**This library is a simple python wrapper for Omneek API!!!**
